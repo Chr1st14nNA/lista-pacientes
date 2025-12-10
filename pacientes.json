@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Juan Perez",
+    "edad": 30,
+    "telefono": "555-1234"
+  },
+  {
+    "nombre": "Maria Lopez",
+    "edad": 25,
+    "telefono": "555-5678"
+  },
+  {
+    "nombre": "Carlos Ramirez",
+    "edad": 40,
+    "telefono": "555-9012"
+  }
+]
