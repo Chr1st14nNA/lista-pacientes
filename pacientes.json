@@ -14,4 +14,12 @@
     "edad": 40,
     "telefono": "555-9012"
   }
+  ,
+  {
+    "nombre": "Ana Torres",
+    "edad": 35,
+    "telefono": "555-7777"
+  }
+
 ]
+
